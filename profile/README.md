@@ -39,13 +39,19 @@ Our research focuses on polymer physics and polymer materials science, including
 
 ---
 
-## 📫 Contact Us | 联系方式
+## 📫 Contact Us & Maintainers | 联系方式与维护人员
 
 If you are interested in our open-source code or research directions, feel free to contact us:
 如果您对我们的开源代码或研究方向感兴趣，欢迎通过以下方式与我们交流：
 
-- **Principal Investigator (PI) / 负责人**：Prof. Guoming Liu (刘国明 研究员)
-- **Email / 邮箱**：[gmliu@iccas.ac.cn](mailto:gmliu@iccas.ac.cn)
+- **Principal Investigator (PI) / 课题组长**：Prof. Dujin Wang (王笃金 研究员) | [Homepage / 个人主页](https://people.ucas.ac.cn/~0005287)
+- **Co-PI & GitHub Supervisor / 共同负责人 & 开源项目指导**：Prof. Guoming Liu (刘国明 研究员)
+  - **Email / 邮箱**：[gmliu@iccas.ac.cn](mailto:gmliu@iccas.ac.cn)
+  - **ORCID**：[0000-0003-2808-2661](https://orcid.org/0000-0003-2808-2661)
+- **GitHub Maintainer / 界面与代码维护者**：Tianyi Ma (马天怡), Ph.D. Student
+  - **Email / 邮箱**：[tyma507@iccas.ac.cn](mailto:tyma507@iccas.ac.cn)
+  - **ORCID**：[0009-0003-1965-0919](https://orcid.org/0009-0003-1965-0919)
+
 - **Address / 地址**：No. 2 Zhongguancun North First Street, Haidian District, Beijing, China, 100190 (北京市海淀区中关村北一街2号，中国科学院化学研究所，100190)
 
 **© 2026 ICCAS-EPlab-PMP. All rights reserved.**
