@@ -33,7 +33,7 @@ Our research focuses on polymer physics and polymer materials science, including
 
 ## 💻 Open Source Tools | 开源项目与工具
 
-* 📊 **[PolymCrystalIndex]** - *(Releasing in April 2026)* - A tool for indexing and determining unit cell parameters of polymer crystals. (纤维晶体指标化与晶胞参数获取)
+* 📊 **[PolymCrystalIndex]** - *(https://github.com/ICCAS-EPlab-PMP/PolymCrystIndex)* - A tool for indexing and determining unit cell parameters of polymer crystals. (纤维晶体指标化与晶胞参数获取)
 * 🧬 **[PolymCrystalRefine]** - *(UI Building / Coming soon)* - A program for refining and obtaining the conformation of fiber crystals. (纤维晶体结构精修)
 * 🛠️ **[Scattering/Diffraction Tools (CN)]** - *(Releasing in April 2026)* - Assisted X-ray data processing tools with a Chinese interface. (带有中文界面的衍射/散射辅助处理工具)
 
